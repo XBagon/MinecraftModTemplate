@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "stonecrack",
+    "name": "StoneCrack",
+    "description": "Get ores by mining stone!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://minecraft.curseforge.com/projects/stonecrack",
+    "updateUrl": "",
+    "authorList": [
+      "XBagon"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
